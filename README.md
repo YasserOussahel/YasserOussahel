@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasserOussahel
 - 👀 I’m interested in anything Python related
-- 🌱 I’m currently learning OpenCV & NumPy
+- 🌱 I’m currently learning OpenCV&NumPy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
